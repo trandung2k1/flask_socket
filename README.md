@@ -37,3 +37,9 @@ pip install flask-socketio
 ```js
 flask --app app.py --debug run
 ```
+
+### Run using jwt not error
+
+```js
+python app.py
+```
